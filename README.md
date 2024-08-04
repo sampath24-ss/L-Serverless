@@ -1,8 +1,3 @@
-```
-npm install
-npm run dev
-```
-
-```
-npm run deploy
+````
+This is basic Learning repository of Cloudflare
 ```
